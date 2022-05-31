@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Script>C:\Users\grego\Desktop\Bot\bot\go_group.lua</Script>
+  <SpellAuto>-1</SpellAuto>
+  <CaractAuto>3</CaractAuto>
+  <Placement>1</Placement>
+  <SpeedFight>2</SpeedFight>
+  <Regen>0</Regen>
+  <RegenTeam>false</RegenTeam>
+  <Flood />
+  <FloodActivate>false</FloodActivate>
+  <Commerce>false</Commerce>
+  <Recrutement>false</Recrutement>
+  <ConnexionAuto>true</ConnexionAuto>
+  <Sucess>true</Sucess>
+  <StatuPrivate>true</StatuPrivate>
+  <AntiAgro>false</AntiAgro>
+  <BankReturn>90</BankReturn>
+  <ExchangeHost />
+  <ExchangeActivate>false</ExchangeActivate>
+  <TimeWait>500</TimeWait>
+  <RegenAutoIDActivate>false</RegenAutoIDActivate>
+  <ToggleActivate>true</ToggleActivate>
+  <LogsActivate>false</LogsActivate>
+  <FloodSameCharacter>false</FloodSameCharacter>
+  <FloodMapEnter>false</FloodMapEnter>
+  <SpellConfig />
+  <QuickActionsConfig />
+  <Tactic>Advanced</Tactic>
+  <FarCells>6</FarCells>
+</Configform>

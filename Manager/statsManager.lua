@@ -1,0 +1,3 @@
+local statsManager = {}
+
+return statsManager

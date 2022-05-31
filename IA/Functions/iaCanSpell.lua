@@ -1,0 +1,4 @@
+local iaCanSpell = {}
+
+
+return iaCanSpell

@@ -1,0 +1,7 @@
+accountController = dofile("scripts\\Controller\\accountController.lua")
+botController = dofile("scripts\\Controller\\botController.lua")
+exchangeController = dofile("scripts\\Controller\\exchangeController.lua")
+inventoryController = dofile("scripts\\Controller\\inventoryController.lua")
+servController = dofile("scripts\\Controller\\servController.lua")
+stuffController = dofile("scripts\\Controller\\stuffController.lua")
+userController = dofile("scripts\\Controller\\userController.lua")

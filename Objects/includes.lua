@@ -1,0 +1,7 @@
+objectChat = dofile("scripts\\Objects\\objectChat.lua")
+objectFamilliers = dofile("scripts\\Objects\\objectFamilliers.lua")
+objectGathers = dofile("scripts\\Objects\\objectGathers.lua")
+objectIdols = dofile("scripts\\Objects\\objectIdols.lua")
+objectRessources = dofile("scripts\\Objects\\objectRessources.lua")
+objectStuff = dofile("scripts\\Objects\\objectStuff.lua")
+objectStuffPoid = dofile("scripts\\Objects\\objectStuffPoid.lua")
