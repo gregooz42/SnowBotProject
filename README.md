@@ -1,5 +1,7 @@
 # SnowBotProject
-bot Controller qui connecte des bots Hdv qui manages leurs team. Multi-Serveur.
+Système de bot autonome SnowBot
+
+https://youtu.be/PVSuEE_Y6fQ
 
 Le système après clean devrais géré en autonomie du niveau 1 à 120, l'xp, le stuff des TEAM optimisé, découverte des zaps, l'hdv, la banque, changement de zone, ia avancée plus ou moins opti selon les personnages, et bien d'autres ... tout ceci dans le temps en lançant le bot Controller une unique fois. 
 
