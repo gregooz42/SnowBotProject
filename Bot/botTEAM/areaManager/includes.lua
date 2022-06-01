@@ -1,0 +1,7 @@
+all20_50 = dofile("scripts\\Bot\\botTEAM\\areaManager\\all20_50.lua")
+all50_70 = dofile("scripts\\Bot\\botTEAM\\areaManager\\all50_70.lua")
+amakna_team = dofile("scripts\\Bot\\botTEAM\\areaManager\\amakna_team.lua")
+astrub_team = dofile("scripts\\Bot\\botTEAM\\areaManager\\astrub_team.lua")
+cania_team = dofile("scripts\\Bot\\botTEAM\\areaManager\\cania_team.lua")
+free_team = dofile("scripts\\Bot\\botTEAM\\areaManager\\free_team.lua")
+incarnam_team = dofile("scripts\\Bot\\botTEAM\\areaManager\\incarnam_team.lua")
